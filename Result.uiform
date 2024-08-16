@@ -7,7 +7,7 @@
     "Title": "Result",
     "Theme": "Default",
     "ShowInTaskbar": true,
-    "ShowMargin": true,
+    "ShowMargin": false,
     "CustomStyle": ""
   },
   "Data": {
