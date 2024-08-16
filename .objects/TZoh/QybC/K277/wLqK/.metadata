@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into 'Марка'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "wLqK_58LZEmS-2mNy4HCIg",
+  "Reference": "fvarpFLdIUihYzyw96z5EQ/wLqK_58LZEmS-2mNy4HCIg",
+  "ParentRef": "fvarpFLdIUihYzyw96z5EQ/K277WHzl7USB4Lzj5DsjaQ",
+  "Created": "2024-08-14T13:47:25.8617202Z",
+  "Updated": "2024-08-14T13:47:25.8617202Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

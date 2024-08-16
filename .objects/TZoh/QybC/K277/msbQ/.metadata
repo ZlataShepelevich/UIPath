@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Label 'Такой марки'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "msbQzwBjZk6f4UFnSKFgiQ",
+  "Reference": "fvarpFLdIUihYzyw96z5EQ/msbQzwBjZk6f4UFnSKFgiQ",
+  "ParentRef": "fvarpFLdIUihYzyw96z5EQ/K277WHzl7USB4Lzj5DsjaQ",
+  "Created": "2024-08-16T10:20:40.2264679Z",
+  "Updated": "2024-08-16T10:20:40.2264679Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

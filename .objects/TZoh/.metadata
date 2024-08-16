@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Объявления о продаже автомобилей в Беларуси. Купить или продать автомобиль с пробе",
+  "Type": "App",
+  "Id": "TZohCoZFnkqBLowRy3q_UQ",
+  "Reference": "fvarpFLdIUihYzyw96z5EQ/TZohCoZFnkqBLowRy3q_UQ",
+  "Created": "2024-08-14T13:47:25.4007457Z",
+  "Updated": "2024-08-14T13:47:25.4007457Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

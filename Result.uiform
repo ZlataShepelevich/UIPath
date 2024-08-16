@@ -1,0 +1,94 @@
+﻿{
+  "Metadata": {
+    "Id": "5ddd9ee4-9aeb-46c2-b8ad-4bd3ad873467",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "Result",
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": [
+      {
+        "label": "Label Min",
+        "disabled": true,
+        "tableView": true,
+        "key": "labelMin",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Car Url Min",
+        "disabled": true,
+        "tableView": true,
+        "key": "carUrlMin",
+        "type": "url",
+        "input": true
+      },
+      {
+        "label": "Visit",
+        "action": "event",
+        "showValidations": false,
+        "tableView": false,
+        "key": "visitMin",
+        "type": "button",
+        "event": "VisitTrigger",
+        "input": true
+      },
+      {
+        "label": "Price Min",
+        "disabled": true,
+        "tableView": true,
+        "key": "priceMin",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Label Max",
+        "disabled": true,
+        "tableView": true,
+        "key": "labelMax",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Car Url Max",
+        "disabled": true,
+        "tableView": true,
+        "key": "carUrlMax",
+        "type": "url",
+        "input": true
+      },
+      {
+        "label": "Visit",
+        "action": "event",
+        "showValidations": false,
+        "tableView": false,
+        "key": "visitMax",
+        "type": "button",
+        "event": "VisitTrigger",
+        "input": true
+      },
+      {
+        "label": "Price Max",
+        "disabled": true,
+        "tableView": true,
+        "key": "priceMax",
+        "type": "textfield",
+        "input": true
+      },
+      {
+        "label": "Exit",
+        "disableOnInvalid": true,
+        "tableView": false,
+        "key": "submit",
+        "type": "button",
+        "input": true,
+        "saveOnEnter": false
+      }
+    ]
+  }
+}

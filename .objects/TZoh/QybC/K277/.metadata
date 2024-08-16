@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Объявления о продаже автомобилей в Белар",
+  "Type": "Screen",
+  "Id": "K277WHzl7USB4Lzj5DsjaQ",
+  "Reference": "fvarpFLdIUihYzyw96z5EQ/K277WHzl7USB4Lzj5DsjaQ",
+  "ParentRef": "fvarpFLdIUihYzyw96z5EQ/QybCgf__gUWBijDvDC5Q9g",
+  "Created": "2024-08-14T13:47:25.441092Z",
+  "Updated": "2024-08-14T13:47:25.441092Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
